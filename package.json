@@ -1,0 +1,6 @@
+{
+  "name": "cerberus-traffic-guard",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test test/*.test.js", "manage": "node manage.mjs" }
+}
